@@ -1,0 +1,7 @@
+---
+applications:
+- name: springdemolfj
+  memory: 1G
+  random-route: true
+  path: target/springdemolfj-0.0.1-SNAPSHOT.jar
+
